@@ -3,3 +3,11 @@ div{
     padding: 10px;
     margin: 11px;
 }
+h1{
+    background-color: rgb(255, 0, 51);
+    color: #ffffff;
+    text-align: center;
+}
+li{
+    background-color: rgb(225, 165, 87);
+}
